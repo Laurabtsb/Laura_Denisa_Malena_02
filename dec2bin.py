@@ -1,5 +1,7 @@
 # ------------------------------------------------------
-# ## MODIFICADO POR DENISA BAJO LA SUPREMACÍA DE LAURA. Convierte un número decimal positivo a binario usando un 
+<<<<<<< HEAD
+# El conflicto ha sido modificado. Convierte un número decimal positivo a binario usando un 
+>>>>>>> Malena_branch02
 #   determinado número de bits.
 # El binario resultante es un string e.g. "101"
 # Se usa la función bin() que transforma e.g. 3 en "0b11".
